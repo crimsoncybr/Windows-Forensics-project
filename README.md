@@ -17,11 +17,11 @@ provided (memory dump or HDD image) and applies appropriate tools for extraction
 
 ## Installation
 1. Download or clone the script to your Linux system.
-2. Ensure that the script has executable permissions using `chmod +x script_name.sh`.
-3. Execute the script with `./script_name.sh`.
+2. Ensure that the script has executable permissions using `chmod +x WFGH.sh`.
+3. Execute the script with `./WFGH.sh`.
 
 ## Usage
-- Run the script with root privileges (`sudo ./script_name.sh`).
+- Run the script with root privileges (`sudo ./WFGH.sh`).
 - Follow the on-screen instructions to:
     - Provide the path to the memory dump file or HDD image file.
     - Choose the appropriate type of file (memory dump or HDD image).
